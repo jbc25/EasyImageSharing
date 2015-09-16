@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EasyImageSharing</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="confirm_photo">Confirmar</string>
+    <string name="select">Seleccionar</string>
+    <string name="send">Enviar</string>
+    <string name="share_with">Compartir con</string>
+</resources>

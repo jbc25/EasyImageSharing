@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EasyImageSharing</string>
+    <string name="select">Select</string>
+    <string name="confirm_photo">Confirm</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="send">Send</string>
+    <string name="share_with">Share with</string>
+    <string name="message_optional">Message (optional)</string>
+
+    <string-array name="options">
+        <item>Take photo</item>
+        <item>Pick image</item>
+    </string-array>
+</resources>
