@@ -7,4 +7,11 @@
     <string name="select">Seleccionar</string>
     <string name="send">Enviar</string>
     <string name="share_with">Compartir con</string>
+    <string name="message_optional">Mensaje (opcional)</string>
+
+    <string-array name="options">
+        <item>Hacer foto</item>
+        <item>Coger de la galería</item>
+    </string-array>
+
 </resources>

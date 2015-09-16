@@ -10,6 +10,6 @@
 
     <string-array name="options">
         <item>Take photo</item>
-        <item>Pick image</item>
+        <item>Pick from gallery</item>
     </string-array>
 </resources>
